@@ -22,7 +22,6 @@ public final class Combinations {
 
     /**
      * Calculate combinations
-     *
      * @param n first number
      * @param k second number
      * @return combinations of given {@code n} and {@code k}
